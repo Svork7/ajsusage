@@ -1,0 +1,23 @@
+{
+  "name": "ajsusage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svork7/ajsusage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svork7/ajsusage/issues"
+  },
+  "homepage": "https://github.com/Svork7/ajsusage#readme",
+  "dependencies": {
+    "@svork7/ajslab": "^1.0.0"
+  }
+}
